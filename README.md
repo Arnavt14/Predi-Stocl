@@ -1,1 +1,2 @@
-# Predi-Stocl
+# Predi - Stock
+The purpose of this project was to compare the results 5 different models for the prediction of closing prices for different stocks.The models that we used were Linear Regression, LSTM, KNN, Moving Averages and ARIMA. Throughout this project, there are different methods and studies highlighting the process and the final result shows that LSTM works the best for predicting the prices.
